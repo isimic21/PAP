@@ -1,4 +1,4 @@
-#Dodatni materijali
+#DODATNI MATERIJALI:
 
 Tesseract installer: https://github.com/UB-Mannheim/tesseract/wiki  
 Direktno preuzimanje: https://digi.bib.uni-mannheim.de/tesseract/tesseract-ocr-w64-setup-5.3.3.20231005.exe
